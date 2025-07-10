@@ -50,7 +50,7 @@ docker-compose up -d
 5. **Execute as migrações**
 
 ```bash
-npx drizzle-kit push
+npx drizzle-kit migrate
 ```
 
 6. **Popule o banco (opcional)**
